@@ -44,3 +44,4 @@ yarn-error.log*
 # Environment files (local configs)
 /.env.*
 >>>>>>> 1321f66224237c6932787c05cd8e58426bbf346f
+"app/google-services.json" 
