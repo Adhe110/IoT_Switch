@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "608297118609",
+    "firebase_url": "https://esp32led-a329c-default-rtdb.firebaseio.com",
+    "project_id": "esp32led-a329c",
+    "storage_bucket": "esp32led-a329c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608297118609:android:a54709f3d2aecb21ed4830",
+        "android_client_info": {
+          "package_name": "com.example.ledonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtENIYBuxDGmjnN1ootQ2E_mD0NHaMIXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
