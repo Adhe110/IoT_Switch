@@ -7,8 +7,7 @@ Proyek IoT untuk mengontrol lampu menggunakan **ESP32** dan **Firebase Realtime 
 📁 [`IoT_Switch ESP32`](https://github.com/Adhe110/IoT_Switch/tree/main/IoT_Switch%20ESP32)  
 Berisi kode utama ESP32:
 - `IoT_Switch_ESP32.ino` – Program utama untuk ESP32.
-- `Firebase_ESP_Client.h` – Library Firebase (dimasukkan di Arduino IDE melalui Library Manager).
-- `WiFiManager.h` – Digunakan untuk konfigurasi WiFi tanpa hardcode SSID/password.
+- `Wiring.png` – Library Firebase (dimasukkan di Arduino IDE melalui Library 
 
 ## ⚙️ Fitur Utama
 - Kendali lampu dari Firebase secara **real-time**.
@@ -16,24 +15,6 @@ Berisi kode utama ESP32:
 - Sinkronisasi status lampu dari dan ke Firebase.
 - Cocok untuk proyek **IoT Smart Home** skala kecil.
 
-## 🛠️ Library yang Digunakan
-
-Pastikan library berikut sudah terinstal di Arduino IDE:
-- [Firebase ESP Client](https://github.com/mobizt/Firebase-ESP-Client)
-- [WiFiManager](https://github.com/tzapu/WiFiManager)
-- `WiFi.h` (built-in pada ESP32 board)
-
-## 🔌 Wiring Diagram
-
-**Koneksi Sederhana:**
-
-| ESP32 GPIO | Komponen | Keterangan            |
-|------------|-----------|-----------------------|
-| GPIO 4     | Relay IN  | Mengontrol lampu      |
-| 5V         | VCC Relay | Power supply relay    |
-| GND        | GND Relay | Ground                |
-
-> Gunakan **kaki COM dan NO** pada relay untuk memotong jalur fasa dari listrik AC ke lampu.
 
 ## 🔧 Setup Firebase
 
