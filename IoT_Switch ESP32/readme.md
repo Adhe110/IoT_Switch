@@ -29,15 +29,14 @@ Pastikan semua library ini sudah terinstall di Arduino IDE:
 > Install melalui **Library Manager** di Arduino IDE agar lebih mudah.
 
 ## 🔌 Wiring (Skema Koneksi)
-![Wiring ESP32 ke Relay dan Lampu](IoT_Switch%20ESP32/wiring.PNG)
-
-*(Gambar wiring harus berada di folder repo dan sesuai path)*
+![Wiring ESP32 ke Relay dan Lampu](https://raw.githubusercontent.com/Adhe110/IoT_Switch/main/IoT_Switch%20ESP32/wiring.PNG)  
 
 **Contoh koneksi:**
 - Pin D4 ESP32 → Relay IN  
 - COM relay → Fasa listrik  
 - NO relay → Ke lampu  
 - Netral → Langsung ke lampu
+
 
 
 ## 🔧 Setup Firebase
