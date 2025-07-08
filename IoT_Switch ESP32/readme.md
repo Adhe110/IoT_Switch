@@ -12,13 +12,6 @@ Proyek IoT untuk mengontrol lampu menggunakan **ESP32** dan **Firebase Realtime 
 
 ---
 
-## ⚙️ Fitur
-
-- 🔌 Koneksi WiFi otomatis menggunakan **WiFiManager**
-- 🔄 Komunikasi real-time antara Firebase dan ESP32
-- 💡 Kontrol status lampu (`ON`/`OFF`) dari **Aplikasi mobile**
-
----
 
 ## 🔧 Library yang Digunakan
 
@@ -98,5 +91,3 @@ Berikut langkah-langkah menjalankan proyek IoT Lamp Control ini:
 - Pastikan relay sudah mendukung tegangan kerja ESP32 (3.3V atau 5V).
 - ⚠️ **HATI-HATI!** Saat bekerja dengan listrik **220V AC**,
 
-
-🛠️ **Proyek ini masih akan terus dikembangkan** — baik dari sisi fitur, antarmuka mobile, maupun integrasi sensor lainnya.
