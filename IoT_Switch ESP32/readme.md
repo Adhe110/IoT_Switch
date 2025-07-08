@@ -6,8 +6,7 @@ Proyek IoT untuk mengontrol lampu menggunakan **ESP32** dan **Firebase Realtime 
 
 ## 📁 Folder Utama
 
-📂 [`IoT_Switch ESP32`](https://github.com/Adhe110/IoT_Switch/tree/main/IoT_Switch%20ESP32)  
-Berisi:
+📂 [`IoT_Switch ESP32`](https://github.com/Adhe110/IoT_Switch/tree/main/IoT_Switch%20ESP32) Berisi:
 - `IoT_Switch_ESP32.ino` – Kode program ESP32
 - `wiring.PNG` – Skema wiring ESP32 ke relay dan lampu
 
