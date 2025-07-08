@@ -1,6 +1,6 @@
 # 💡 IoT Lamp Control with ESP32 & Firebase
 
-Proyek IoT untuk mengontrol lampu menggunakan **ESP32** dan **Firebase Realtime Database**. Sistem ini memungkinkan pengguna menyalakan atau mematikan lampu secara jarak jauh melalui internet.
+Proyek IoT untuk mengontrol lampu menggunakan **ESP32** dan **Firebase Realtime Database**. Sistem ini memungkinkan pengguna menyalakan atau mematikan lampu secara jarak jauh melalui Aplikasi mobile.
 
 ## 📂 Struktur Folder
 
