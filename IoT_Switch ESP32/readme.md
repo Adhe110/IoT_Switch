@@ -86,9 +86,9 @@ Berikut langkah-langkah menjalankan proyek IoT Lamp Control ini:
 10. Masuk ke aplikasi mobile untuk menyalakan atau mematikan lampu.
 
 ### 📱 Tampilan Aplikasi Mobile
-
+<div align="center">
 <img src="https://i.ibb.co/JMhCjC3/Whats-App-Image-2025-07-08-at-03-04-11-2.jpg" width="200">
-
+</div>
 
 
 ## 🧠 Tips
